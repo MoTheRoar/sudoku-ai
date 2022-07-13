@@ -6,3 +6,5 @@
 
 * A challenge I faced was breaking the entire board into their respective blocks to pass into the Neural Network. However, after enough trial-and-errors, I realized I could just break the contours up into 9x9 blocks. 
 
+## Purpose
+* I wanted to apply knowledge of Neural Network into a personal project. Since I always played Sudoku growing up, I wanted to incorporate the two. Additionally, this is a way for me to store my progress and journey in Machine Learning and OpenCV.
